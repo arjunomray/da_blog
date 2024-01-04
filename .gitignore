@@ -21,7 +21,7 @@ ehthumbs*.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-
+/.venv/
 
 .idea/inspectionProfiles .idea/misc.xml .idea/modules.xml .idea/my-first-blog.iml .idea/vcs.xml .idea/workspace.xml
 .vscode/settings.json
